@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marwa</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h3 align="center">Mobile App developer [Flutter] </h3>
 
+- 🌱 I’m currently learning **Flutter Development**
+  
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **marwaatef2001@gmail.com**
